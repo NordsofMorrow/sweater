@@ -1,0 +1,30 @@
+{
+  "template": "https://github.com/NordsofMorrow/cookiecutter-pypackage",
+  "commit": "f94e6534590f49b079f91aef31666faa217a53e6",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "sweater",
+      "project_slug": "sweater",
+      "pkg_name": "sweater",
+      "project_short_description": "A fabric-based remote command invoker for lazy people who do repetitive stuff",
+      "full_name": "Nords Morrow",
+      "email": "nordsofmorrow@protonmail.com",
+      "github_username": "NordsofMorrow",
+      "version": "0.1.0",
+      "command_line_interface": "Click",
+      "open_source_license": "BSD-3-Clause",
+      "docstrings_style": "numpy",
+      "use_mypy": "y",
+      "install_precommit_hooks": "y",
+      "_copy_without_render": [
+        "docs/changelog.md",
+        "docs/contributing.md",
+        "docs/index.md",
+        ".github/workflows/*.yml"
+      ],
+      "_template": "https://github.com/NordsofMorrow/cookiecutter-pypackage"
+    }
+  },
+  "directory": null
+}
