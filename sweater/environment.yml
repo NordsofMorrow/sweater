@@ -1,0 +1,26 @@
+---
+name: sweater
+channels:
+  - conda-forge
+dependencies:
+  - python >=3.8
+  - click >=8.0.1
+  - fabric >=3.0
+  - paramiko >=3.0
+  - dynaconf >=3.0
+  # testing
+  - black
+  - isort
+  - mypy
+  - flake8
+  - flake8-docstrings
+  - pytest-cov
+  # development
+  - tox
+  - pre-commit
+  - virtualenv
+  - pip
+  - twine
+  - toml
+  - bump2version
+  - pip
