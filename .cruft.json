@@ -1,6 +1,6 @@
 {
   "template": "https://github.com/NordsofMorrow/cookiecutter-pypackage",
-  "commit": "f94e6534590f49b079f91aef31666faa217a53e6",
+  "commit": "212a0c3e9168c3d2394368977b1c1942e25613c8",
   "checkout": null,
   "context": {
     "cookiecutter": {
