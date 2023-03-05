@@ -1,11 +1,11 @@
-"""Console script for sweater."""  # noqa: D401
+"""Console script for sweater."""
 
 import click
 
 
 @click.command()
 def main():
-    """Main entrypoint."""
+    """Main entrypoint."""  # noqa: D401
     click.echo("sweater")
     click.echo("=" * len("sweater"))
     click.echo("A fabric-based remote command invoker for lazy people who do repetitive stuff")
