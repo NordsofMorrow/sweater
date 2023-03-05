@@ -1,3 +1,4 @@
+# noqa: D401
 """Console script for sweater."""
 
 import click
