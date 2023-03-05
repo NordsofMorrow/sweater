@@ -1,5 +1,4 @@
-# noqa: D401
-"""Console script for sweater."""
+"""Console script for sweater."""  # noqa: D401
 
 import click
 
